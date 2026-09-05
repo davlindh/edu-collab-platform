@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/edu-collab-platform
+purpose: Education-oriented collaboration platform experiment.
+status: vertical-experiment
+canonical_parent: davlindh/faving-journey-shaper
+capabilities: [education, collaboration, knowledge-sharing]
+vertical: education
+omniframez_role: vertical-validation
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: harvest-domain-capabilities
+relations:
+  - validates: collaboration and knowledge capabilities in education context
